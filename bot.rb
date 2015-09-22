@@ -9,7 +9,7 @@ target = 'asmsuechan'
 
 ######### HOW TO USE ########
 # if target tweet, your bot #
-# replies "fuck you!!"		#
+# replies "fuck you!!"      #
 #############################
 
 ## create database(sqlite3) by activerecord
