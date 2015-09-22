@@ -67,7 +67,7 @@ if config.friendship?(target, account)
 		end
 	end
 
-	puts "------------test-------------"
+	puts "------------test---------------"
 	#client.update("test")
 	#puts "posted "test""
 	
